@@ -4,7 +4,7 @@
             "type": "java",
             "name": "Spring Boot-DemoApplication<backend_iprwc_webshop>",
             "request": "launch",
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/backend_iprwc_webshop",
             "console": "internalConsole",
             "mainClass": "com.tom.backend_iprwc_webshop.DemoApplication",
             "projectName": "backend_iprwc_webshop",
